@@ -1,0 +1,13 @@
+#nameColor1{
+	color: red;
+}
+#nameColor2{
+	color: blue; 
+}
+#nameColor3{
+	color: rgb(0,255,0);
+}
+#nameColor4{
+	color: rgba(255,0,0,0.8);
+}
+
